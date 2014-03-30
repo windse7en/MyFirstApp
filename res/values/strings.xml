@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyFirstApp</string>
+    <string name="hello_world">张韬你很棒!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
